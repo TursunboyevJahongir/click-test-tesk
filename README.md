@@ -21,3 +21,4 @@
 
 <a href="https://documenter.getpostman.com/view/9990014/UVByJAY3#a81f2dda-0b4a-4f14-9e9d-c6d832d99d30" target="_blank"><img src="https://github.com/TursunboyevJahongir/click-test-tesk/blob/master/public/postman.svg" width="50"> public documentation</a>
 <p><a href="public/Click.pdf" download>documentation Pdf</a></p>
+<p><a href="public/Click.postman_collection.json" download>Postman collection</a></p>
